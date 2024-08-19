@@ -7,9 +7,9 @@ The Re-ConECT service can be used by both people who have received a diagnosis a
 
 The process is as follows:
 
-##1. Check if the person has received a diagnosis
-##2. For those who have been diagnosed: When they input their functional assessment scores, the system compares them with previous scores to identify any areas of decline. Based on this comparison, it recommends necessary rehabilitation exercises. It also checks for complications and advises whether a hospital visit is necessary.
-##3. For those who have not been diagnosed: A diagnostic evaluation is conducted. This process is identical to an actual rehabilitation diagnosis, involving a thorough questionnaire. Based on this, a diagnosis is made, and relevant rehabilitation exercises are recommended. The system also advises whether a hospital visit is necessary.
+## 1. Check if the person has received a diagnosis
+## 2. For those who have been diagnosed: When they input their functional assessment scores, the system compares them with previous scores to identify any areas of decline. Based on this comparison, it recommends necessary rehabilitation exercises. It also checks for complications and advises whether a hospital visit is necessary.
+## 3. For those who have not been diagnosed: A diagnostic evaluation is conducted. This process is identical to an actual rehabilitation diagnosis, involving a thorough questionnaire. Based on this, a diagnosis is made, and relevant rehabilitation exercises are recommended. The system also advises whether a hospital visit is necessary.
 
 The code can be easily run in [Re_ConECT.ipynb](https://github.com/SeungHoJUN/Re-ConECT/blob/main/Re_ConECT.ipynb).
 
